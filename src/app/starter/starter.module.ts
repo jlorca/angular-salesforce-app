@@ -17,4 +17,5 @@ import { StarterRoutes } from './starter.routing';
   declarations: [ StarterComponent ]
 })
 
-export class StarterModule {}
+export class StarterModule {
+}
